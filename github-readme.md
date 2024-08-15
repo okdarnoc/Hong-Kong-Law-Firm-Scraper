@@ -1,6 +1,6 @@
 # Web Scraping Tutorial: Law Firms Data Extraction
 
-This tutorial demonstrates how to scrape data from a website and save it to a JSON file using Python. We'll be extracting information about law firms from a public directory.
+This tutorial demonstrates how to scrape data from the law society website and save it to a JSON file using Python. We'll be extracting information about law firms from a public directory.
 
 ## Prerequisites
 
