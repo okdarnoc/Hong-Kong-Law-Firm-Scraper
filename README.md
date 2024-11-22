@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 3. Run the scraper:
 ```bash
-python hk_law_society_scraper.py
+python hk_law_scraper.py
 ```
 
 The script will:
