@@ -1,4 +1,4 @@
-# hk_law_society_scraper.py
+# hk-law-scraper.py
 
 import requests
 from bs4 import BeautifulSoup
